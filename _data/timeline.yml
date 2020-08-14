@@ -17,45 +17,67 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: MSc thesis supervision
+  title-url: https://www.epsem.upc.edu/ca/estudis/masters-universitaris/mu-en-enginyeria-dels-recursos-naturals
+  date: 2020
+  subtitle: Dark ecological corridors in Catalonia, by M. Galobart. Master's Degree in Natural Resources Engineering. Universitat Politècnica de Catalunya · BarcelonaTech (UPC) 
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Light Pollution
+    - tag: Ecology
+    - tag: GIS
+    - tag: Remote Sensing
+    - tag: Natural Resources Engineering
+    - tag: VIIRS
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+
+- title: MSc thesis supervision
+  title-url: https://www.epsem.upc.edu/ca/estudis/masters-universitaris/mu-en-enginyeria-dels-recursos-naturals
+  date: 2020
+  subtitle: Visualization and analysis of the industrial waste categories in Catalonia, by G. Navarro. Master's Degree in Natural Resources Engineering. Universitat Politècnica de Catalunya · BarcelonaTech (UPC) 
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Waste Management
+    - tag: Industrial Waste
+    - tag: GIS
+  timeline-side: left
+
+
+- title: MSc thesis supervision
+  title-url: https://www.epsem.upc.edu/ca/estudis/masters-universitaris/mu-en-enginyeria-dels-recursos-naturals
+  date: 2018
+  subtitle:  Sustainability Analysis in Bolivia from Satellite Night Images, by C. Luizaga. Master's Degree in Natural Resources Engineering. Universitat Politècnica de Catalunya · BarcelonaTech (UPC) 
+  tags:
+    - tag: Waste Management
+    - tag: Industrial Waste
+    - tag: GIS
+  timeline-side: left
+
+
+- title: UPC · BarcelonaTech
+  title-url: https://www.epsem.upc.edu/ca/estudis/masters-universitaris/mu-en-enginyeria-dels-recursos-naturals
+  date: 2018 - Present
+  subtitle: Master's degree in Natural Resources Engineering. Teaching GIS and Remote Sensing Applied to the Management of Natural Resources
+  tags:
+    - tag: Physics 
+    - tag: Remote Sensing
+    - tag: GIS
+    - tag: Electromagnetic Waves
+    - tag: Natural Resources Engineering
+    - tag: Mining Engineering
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+
+- title: UPC · BarcelonaTech
+  title-url: https://epsem.upc.edu
+  date: Oct 2017 - Present
+  subtitle: Physics 
+  tags:
+    - tag: Physics 
+    - tag: Mechanics
+    - tag: Electromagnetism
+    - tag: Industrial Engineering
+    - tag: Mining Engineering
+    - tag: ITC Engineering
+  timeline-side: right
+
+

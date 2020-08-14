@@ -2,29 +2,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Marc Vallbé Mumbrú
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Personal website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: "/mvm"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Marc Vallbé Mumbrú
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Science Researcher and Teacher
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: marc.vallbe@upc.edu
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: gorgnegre
+codepen_username: 
+dev_username: 
+linkedin_username: 
+twitter_username: fisca_profe
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,8 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: I grew up in a small enough town where the sky was dark enough at night to get me wondering about the universe. That led me to a <a class="highlight-link" href="http://etheses.dur.ac.uk/2968/" target="_blank" rel="noreferrer">PhD in Extragalactic Astronomy</a> and degrees in <a class="highlight-link" href="http://www.ub.edu/fisica" target="_blank" rel="noreferrer">Philosophy</a> and <a class="highlight-link" href="http://www.ub.edu/fisica" target="_blank" rel="noreferrer">Physics</a>. These days I'm doing research in optimising natural resources from remote sensing data.
+
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +54,20 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://futur.upc.edu/MarcVallbeMumbru
+
+# CLASSES SECTION
+# show_classes_card:
+# > setting this to true, will display the Projects section
+# > setting this to false, will omit the Projects section
+show_classes_card: true
+# show_projects:
+# > setting this to true, will display your listed projects in _data/projects.yml
+# > setting this to false, will omit your listed projects
+show_classes: true
+# classes_title: The will be displayed as the title of your projects
+classes_title: 2020 Classes
+
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -65,7 +79,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Research Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -81,12 +95,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: I would love to hear from you, so please drop me a line.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: gorgnegre
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -110,7 +124,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "UA-34187626-1"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 

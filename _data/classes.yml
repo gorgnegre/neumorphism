@@ -1,0 +1,62 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Geographic Information Systems and Remote Sensing Applied to the Management of Natural Resources  
+  descr: "Master's degree in Natural Resources Engineering. UPC · BarcelonaTech"
+  demo: https://www.upc.edu/content/grau/guiadocent/pdf/en/33103
+  tags:
+    - tag: Remote Sensing
+    - tag: GIS
+    - tag: Case Studies
+
+- name: Physics II
+  descr: "Bachelor's degrees in Industrial Electronics and Automatic Control Engineering, and in ICT Systems Engineering"
+  demo: https://futur.upc.edu/MarcVallbeMumbru
+  tags:
+    - tag: Electric Fields
+    - tag: Magnetic Fields
+    - tag: Waves
+
+
+- name: Physics II
+  descr: "Bachelor's degree in Mining Engineering"
+  demo: https://futur.upc.edu/MarcVallbeMumbru
+  tags:
+    - tag: Electric Fields
+    - tag: Magnetic Fields
+
+
+- name: Maths BTX2
+  descr: "Institut Cal Gravat"
+  tags:
+    - tag: Calculus
+
+    
+- name: Physics BTX2
+  descr: "Institut Cal Gravat"
+  tags:
+    - tag: Mechanics
+    - tag: Electromagnetism
+    - tag: Quantum Mechanics
+    - tag: Relativity
+    - tag: Waves
+
+- name: Physics BTX1
+  descr: "Institut Cal Gravat"
+  tags:
+    - tag: Optics
+    - tag: Mechanics
+    - tag: Electricity
+

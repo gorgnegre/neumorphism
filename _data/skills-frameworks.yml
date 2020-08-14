@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
-  weight: 5
-
-- name: AngularJS
+- name: Big Data
   weight: 3
 
-- name: React
+- name: Galaxy Evolution
   weight: 4
 
-- name: Node
-  weight: 1
+- name: Quasars/AGN
+  weight: 5
 
-- name: Flutter
-  weight: 2
+- name: GIS
+  weight: 4
 
-- name: Express
+- name: Remote Sensing
   weight: 3
 
-- name: Django
-  weight: 1
+- name: Light Pollution
+  weight: 3
 
-- name: Spring
-  weight: 2
+- name: Teaching
+  weight: 5
 
-- name: Rails
+- name: Computing
+  weight: 4
+
+- name: Open Source
   weight: 4
