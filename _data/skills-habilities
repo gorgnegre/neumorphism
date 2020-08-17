@@ -1,0 +1,36 @@
+# > name: Name of your habilities
+# > weight: Describes how good you master the hability - values from 1 up to 5
+#
+# Example of a hability
+# - name: Hability
+#   weight: 5
+
+- name: problem solver
+  weight: 5
+
+- name: deep understanding of physical processes
+  weight: 5
+
+- name: due dilligence
+  weight: 3
+
+- name: 
+  weight: 4
+
+- name: 
+  weight: 4
+
+- name: 
+  weight: 3
+
+- name: 
+  weight: 3
+
+- name: 
+  weight: 5
+
+- name: 
+  weight: 4
+
+- name: 
+  weight: 4

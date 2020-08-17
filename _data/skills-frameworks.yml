@@ -6,13 +6,16 @@
 #   weight: 5
 
 - name: Big Data
-  weight: 3
+  weight: 5
 
 - name: Galaxy Evolution
   weight: 4
 
-- name: Quasars/AGN
-  weight: 5
+- name: AI
+  weight: 3
+
+- name: AGN
+  weight: 4
 
 - name: GIS
   weight: 4
