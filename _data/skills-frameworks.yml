@@ -17,20 +17,15 @@
 - name: AGN
   weight: 4
 
-- name: GIS
-  weight: 4
-
 - name: Remote Sensing
   weight: 3
 
 - name: Light Pollution
   weight: 3
 
-- name: Teaching
-  weight: 5
+- name: X-rays
+  weight: 2
 
-- name: Computing
-  weight: 4
+- name: IR
+  weight: 2
 
-- name: Open Source
-  weight: 4

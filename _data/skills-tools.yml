@@ -6,10 +6,7 @@
 #   weight: 5
 
 - name: QGis
-  weight: 4
-
-- name: Bash
-  weight: 4
+  weight: 5
 
 - name: Emacs
   weight: 4
@@ -17,6 +14,29 @@
 - name: ArcGIS
   weight: 3
 
-- name: Git
+- name: SQL
+  weight: 2
+
+- name: Python
+  weight: 5
+
+- name: HTML5
+  weight: 1
+
+- name: LaTeX
   weight: 3
 
+- name: Org-Mode
+  weight: 4
+
+- name: IDL
+  weight: 1
+
+- name: Bash/Zsh
+  weight: 1
+
+- name: Open Source
+  weight: 1
+
+- name: R
+  weight: 2

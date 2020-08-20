@@ -13,6 +13,34 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Detection of irrigation inhomogeneities in an olive grove using the NDRE vegetation index obtained from UAV images
+  descr: "We have developed a simple photogrammetric method to identify heterogeneous areas of irrigated olive groves and vineyard crops using a commercial multispectral camera mounted on an unmanned aerial vehicle (UAV). By comparing NDVI, GNDVI, SAVI, and NDRE vegetation indices, we find that the latter shows irrigation irregularities in an olive grove not discernible with the other indices. This may render the NDRE as particularly useful to identify growth inhomogeneities in crops. Given the fact that few satellite detectors are sensible in the red-edge (RE) band and none with the spatial resolution offered by UAVs, this finding has the potential of turning UAVs into a local farmer’s favourite aid tool."
+  demo: https://www.tandfonline.com/doi/full/10.1080/22797254.2019.1572459
+  tags:
+    - tag: Unmanned aerial vehicle (UAV)
+    - tag: Precision Agriculture
+    - tag: Red Edge
+    - tag: Vegetation Indices
+    - tag: GIS
+    - tag: Remote Sensing
+    - tag: Crops
+
+#- name: PhD Thesis by J. Simona - Using CNOSSOS-EU for assessing road traffic noise in the UK
+#  descr: "Using CNOSSOS-EU for assessing road traffic noise in the UK.  Comparison of economic tools to decide the introduction of noise mitigation measures. "
+#  demo: https://www.epsem.upc.edu/ca/estudis/masters-universitaris/mu-en-enginyeria-dels-recursos-naturals
+#  tags:
+#    - tag: Noise Pollution
+#    - tag: Law 
+#    - tag: UK
+
+- name: Parametrization of Land Uses in the Andean Páramo through Remote Sensing, Organic Carbon Distribution and Non-Parametric Classification Methods
+  descr: "Paramo ecosystems are areas of high natural interest as they contribute to water regulation, carbon retention, and possess significant biodiversity. The objective of this study is to develop an effective, economical, and easy to update methodology that allows simple monitoring of its conservation status, rate of degradation, and changes in land use at all times with the aim of, helping to take adequate measures to protect the high Andean tropical moors.<br />In this research, the performance of two non-parametric predictive models, Cart Decision Tree (CDT) and Multivariate Adaptive Regression Splines (MARS), were evaluated in order to learn about the changes in land use and degradation rates of the paramo ecosystem of the Chambo sub-basin (Ecuador). The analysis was carried out using three types of attributes: topographic data, land use coverage obtained from Sentinel 2, and current data on organic carbon (SOC); and a categorical variable, land use.<br /> The results show that the Cart Decision Tree (CDT) was the model with the best performance (84% accuracy), that 1/6 of the paramo in the study area has been degraded since the last report from the Ecuadorian Ministry of Environment in 2012, and that grasslands represent the highest impact land use (the increase in the grassland represents the greatest impact in terms of land use change)."
+  demo: https://is.upc.edu/en/teaching/phd-sustainability
+  tags:
+    - tag: Páramo
+    - tag: GIS 
+    - tag: Ecuador
+
 - name: MSc Thesis by M. Galobart - Dark ecological corridors in Catalonia
   descr: "Ecological corridors connect protected natural parks. We study how light pollution affects these corridors in Catalonia."
   demo: https://futur.upc.edu/MarcVallbeMumbru
@@ -32,7 +60,7 @@
     - tag: GIS
 
 - name: MSc Thesis by C. Luizaga - Sustainability Analysis in Bolivia from Satellite Night Images
-  descr: "Satellite images are used to analyze the social, economic and environmental factors of  sustainability in Bolivia. The night-time satellite images ( (Visible Infrared Imaging Radiometer Suite, VIIRS) are used to analyze the distribution of the population, correlating it with energy consumption, environmental degradation and pollution by CO<sub>2</sub> emissions, and social aspects that are obtained from secondary information sources."
+  descr: "Satellite images are used to analyze the social, economic and environmental factors of  sustainability in Bolivia. Night-time Visible Infrared Imaging Radiometer Suite (VIIRS) images are used to trace the distribution of the population, and we correlate artificial light with energy consumption, environmental degradation and pollution by CO<sub>2</sub> emissions, and social aspects that are obtained from secondary information sources."
   tags:
     - tag: Sustainability
     - tag: Light Pollution
@@ -40,14 +68,3 @@
     - tag: GIS
     - tag: VIIRS
 
-- name: Detection of irrigation inhomogeneities in an olive grove using the NDRE vegetation index obtained from UAV images
-  descr: "We have developed a simple photogrammetric method to identify heterogeneous areas of irrigated olive groves and vineyard crops using a commercial multispectral camera mounted on an unmanned aerial vehicle (UAV). By comparing NDVI, GNDVI, SAVI, and NDRE vegetation indices, we find that the latter shows irrigation irregularities in an olive grove not discernible with the other indices. This may render the NDRE as particularly useful to identify growth inhomogeneities in crops. Given the fact that few satellite detectors are sensible in the red-edge (RE) band and none with the spatial resolution offered by UAVs, this finding has the potential of turning UAVs into a local farmer’s favourite aid tool."
-  demo: https://www.tandfonline.com/doi/full/10.1080/22797254.2019.1572459
-  tags:
-    - tag: Unmanned aerial vehicle (UAV)
-    - tag: Precision Agriculture
-    - tag: Red Edge
-    - tag: Vegetation Indices
-    - tag: GIS
-    - tag: Remote Sensing
-    - tag: Crops

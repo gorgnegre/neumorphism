@@ -14,7 +14,7 @@ baseurl: "/mvm"
 username: Marc Vallbé Mumbrú
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: science researcher and teacher.
+typing_text: science researcher & teacher
 # email: Your E-Mail address for the email button.
 email: marc.vallbe@upc.edu
 # For every social button you want to display, set your username or userid
@@ -23,8 +23,11 @@ email: marc.vallbe@upc.edu
 github_username: gorgnegre
 codepen_username: 
 dev_username: 
-linkedin_username: 
-twitter_username: fisca_profe
+linkedin_username:
+researchgate_username: Marc_Vallbe
+orcid_username: 0000-0002-7518-8971
+upc_username: MarcVallbeMumbru
+twitter_username: fisica_profe
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +37,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I grew up in a small enough town where the sky was dark enough at night to get me wondering about the universe. That led me to a <a class="highlight-link" href="http://etheses.dur.ac.uk/2968/" target="_blank" rel="noreferrer">PhD in Extragalactic Astronomy</a> and degrees in <a class="highlight-link" href="http://www.ub.edu/fisica" target="_blank" rel="noreferrer">Philosophy</a> and <a class="highlight-link" href="http://www.ub.edu/fisica" target="_blank" rel="noreferrer">Physics</a>. These days I'm doing research in optimising natural resources from remote sensing data.
+about_me_description: I grew up in a small town where the sky was dark enough at night to get me wondering about the universe. That led me to bachelor degrees in Philosophy and Physics, and a PhD in Extragalactic Astronomy studying the evolution of galaxies and active galactic nuclei from deep X-ray and optical surveys. I became responsible for the astronomical calibration of the near-IR multiobject spectrograph for the largest optical telescope in the world, and kept researching galaxy formation and evolution within the Galaxy Origins Youth Assembly programme. After that I concentrated on teaching. A few years ago I turned satellite sensors from observing outward into deep space back to sensing the Earth, and these days I'm mainly doing research in optimising natural resources from remote sensing data as well as teaching.
 
 
 # SKILLS SECTION
@@ -51,7 +54,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Education & Research
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://futur.upc.edu/MarcVallbeMumbru
@@ -66,7 +69,7 @@ show_classes_card: true
 # > setting this to false, will omit your listed projects
 show_classes: true
 # classes_title: The will be displayed as the title of your projects
-classes_title: 2020 Classes
+classes_title: Teaching (2020-21)
 
 
 # PROJECTS SECTION

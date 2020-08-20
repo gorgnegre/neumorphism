@@ -20,7 +20,8 @@ $card-bg-color: linear-gradient(
   rgba(115, 115, 115, 0.15) 15%,
   rgba(43, 45, 47, 1) 80%
 );
-$primary-color: #ff073a;
+/* $primary-color: #ff073a; */
+$primary-color: #ff683a;
 
 /* General */
 
@@ -61,7 +62,8 @@ a {
 
 .highlight-title {
   color: $primary-color;
-  text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
+  /*  text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;*/
+  text-shadow: 0.125rem 0.125rem 0.25rem $primary-color;
 }
 
 .highlight-link {
@@ -333,6 +335,38 @@ a {
     }
   }
 
+  .researchgate:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+        colorResearchgate 1s linear forwards;
+    }
+    .social-svg {
+      fill: #00ccbb;
+    }
+  }
+
+
+  .orcid:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+        colorOrcid 1s linear forwards;
+    }
+    .social-svg {
+      fill: #a6ce39;
+    }
+  }
+
+  .upc:hover {
+      .circle {
+          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+                     colorUpc 1s linear forwards;
+      }
+      .social-svg {
+          fill: #007bc0;
+      }
+  }
+
+
   @keyframes outWaveIn {
     to {
       stroke-dasharray: 510;
@@ -376,6 +410,25 @@ a {
       stroke: #1da1f2;
     }
   }
+
+  @keyframes colorResearchgate {
+    to {
+      stroke: #00ccbb;
+    }
+  }
+
+  @keyframes colorOrcid {
+    to {
+      stroke: #a6ce39;
+    }
+  }
+
+  @keyframes colorUpc {
+    to {
+      stroke: #007bc0;
+    }
+  }
+
 }
 
 /* Skills Section */
@@ -392,15 +445,18 @@ a {
   }
 
   div[skill-type="language"] {
-    color: #e84a5f;
+/*      color: #e84a5f; */
+      color: #ff4c16;
   }
 
   div[skill-type="framework"] {
-    color: #ff847c;
+/*    color: #ff847c; */
+      color: #ff7045;
   }
 
   div[skill-type="tool"] {
-    color: #fecea8;
+/*      color: #fecea8; */
+      color: #ff9676;
   }
 
   div[skill-weight="1"] {
@@ -646,6 +702,25 @@ a {
       fill: #1da1f2;
     }
   }
+
+  .researchgate:hover {
+    .social-svg {
+      fill: #00ccbb;
+    }
+  }
+
+  .orcid:hover {
+    .social-svg {
+      fill: #a6ce39;
+    }
+  }
+
+  .upc:hover {
+    .social-svg {
+      fill: #007bc0;
+    }
+  }
+
 }
 
 /* Media Queries */

@@ -5,38 +5,21 @@
 # - name: Language
 #   weight: 5
 
-- name: SQL
-  weight: 3
-
-- name: JavaScript
-  weight: 2
-
-- name: Python
-  weight: 3
-
-- name: HTML5
-  weight: 3
-
-- name: CSS3
-  weight: 2
-
-- name: SASS
-  weight: 1
-
-- name: LaTeX
-  weight: 4
-
-- name: Org-Mode
+- name: Physics
   weight: 5
 
-- name: IDL
-  weight: 2
-
-- name: Bash/Zsh
+- name: GIS+RS
   weight: 4
 
-- name: C++
-  weight: 1
+- name: Astronomy
+  weight: 4
 
-- name: Ruby
-  weight: 1
+- name: Maths
+  weight: 2
+
+- name: Technology
+  weight: 2
+
+- name: Chemistry
+  weight: 3
+
