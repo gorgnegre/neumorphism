@@ -12,7 +12,7 @@
   weight: 4
 
 - name: ArcGIS
-  weight: 3
+  weight: 2
 
 - name: SQL
   weight: 2
@@ -39,4 +39,4 @@
   weight: 1
 
 - name: R
-  weight: 2
+  weight: 3

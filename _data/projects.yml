@@ -34,12 +34,24 @@
 #    - tag: UK
 
 - name: Parametrization of Land Uses in the Andean Páramo through Remote Sensing, Organic Carbon Distribution and Non-Parametric Classification Methods
-  descr: "Paramo ecosystems are areas of high natural interest as they contribute to water regulation, carbon retention, and possess significant biodiversity. The objective of this study is to develop an effective, economical, and easy to update methodology that allows simple monitoring of its conservation status, rate of degradation, and changes in land use at all times with the aim of, helping to take adequate measures to protect the high Andean tropical moors.<br />In this research, the performance of two non-parametric predictive models, Cart Decision Tree (CDT) and Multivariate Adaptive Regression Splines (MARS), were evaluated in order to learn about the changes in land use and degradation rates of the paramo ecosystem of the Chambo sub-basin (Ecuador). The analysis was carried out using three types of attributes: topographic data, land use coverage obtained from Sentinel 2, and current data on organic carbon (SOC); and a categorical variable, land use.<br /> The results show that the Cart Decision Tree (CDT) was the model with the best performance (84% accuracy), that 1/6 of the paramo in the study area has been degraded since the last report from the Ecuadorian Ministry of Environment in 2012, and that grasslands represent the highest impact land use (the increase in the grassland represents the greatest impact in terms of land use change)."
+  descr: "Paramo ecosystems are areas of high natural interest as they contribute to water regulation, carbon retention, and possess significant biodiversity. The objective of this study is to develop an effective, economical, and easy to update methodology that allows simple monitoring of its conservation status, rate of degradation, and changes in land use at all times with the aim of, helping to take adequate measures to protect the high Andean tropical moors."
   demo: https://is.upc.edu/en/teaching/phd-sustainability
   tags:
     - tag: Páramo
     - tag: GIS 
     - tag: Ecuador
+
+- name: Super Massive Black Hole Accretion Activity
+  descr: "Just four decades ago, astronomers thought black holes —regions of intense gravity from which no information can escape— were mathematical oddities. But now astronomers, armed with large multiwavelength telescopes, infer the presence of supermassive black holes in the cores of most medium to large galaxies.  They are the driving engines of quasars, which are highly energetic objects seen in the most distant galaxies.  How quasars are related to star and galaxy formation is one of the most pressing cosmological questions and the one we try to dilucidate."
+  demo: http://etheses.dur.ac.uk/2968/
+  tags:
+    - tag: SMBH
+    - tag: AGN
+    - tag: Quasars
+    - tag: Galaxy Formation
+    - tag: X-rays
+    - tag: IR
+
 
 - name: MSc Thesis by M. Galobart - Dark ecological corridors in Catalonia
   descr: "Ecological corridors connect protected natural parks. We study how light pollution affects these corridors in Catalonia."

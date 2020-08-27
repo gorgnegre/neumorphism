@@ -7,7 +7,8 @@ title: Marc Vallbé Mumbrú
 description: Personal website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/mvm"
+baseurl: ""
+
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -37,7 +38,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I grew up in a small town where the sky was dark enough at night to get me wondering about the universe. That led me to bachelor degrees in Philosophy and Physics, and a PhD in Extragalactic Astronomy studying the evolution of galaxies and active galactic nuclei from deep X-ray and optical surveys. I became responsible for the astronomical calibration of the near-IR multiobject spectrograph for the largest optical telescope in the world, and kept researching galaxy formation and evolution within the Galaxy Origins Youth Assembly programme. After that I concentrated on teaching. A few years ago I turned satellite sensors from observing outward into deep space back to sensing the Earth, and these days I'm mainly doing research in optimising natural resources from remote sensing data as well as teaching.
+about_me_description: I grew up in a small town where the sky was dark enough at night to get me wondering about the universe. That led me to bachelor degrees in Philosophy and Physics, and a PhD in Extragalactic Astronomy studying the evolution of galaxies and active galactic nuclei from deep X-ray and optical surveys. <br /><br />I then became responsible for the astronomical calibration of the near-IR multiobject spectrograph for the largest optical telescope in the world, and kept researching galaxy formation and evolution within the Galaxy Origins Youth Assembly programme. <br /><br />After that I concentrated on teaching. A few years ago I turned satellite sensors from observing outward into deep space back to sensing the Earth, and these days I'm mainly doing research in optimising natural resources from remote sensing data as well as teaching.
 
 
 # SKILLS SECTION
